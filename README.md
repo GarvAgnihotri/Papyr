@@ -9,7 +9,7 @@ Papyr is a full-featured, modern Python code editor built with Python itself. It
 - 🧠 Smart Code Editor — Syntax highlighting, autocompletion, and error checking
 - 🧩 Extensions Support — Add new tools and features via a built-in extensions manager
 - 🏆 Achievements System — Unlock coding milestones as you write and run code
-- 🔤 Block Coding Mode — Beginner-friendly drag-and-drop coding (like Scratch)
+- 🔤 Block Based Coding Mode — Beginner-friendly drag-and-drop coding (like Scratch)
 - 🗂️ Tabbed File Management — Work on multiple files in one window
 - 🖼️ Dark/Light Themes — Customize the appearance with modern themes
 - ⚙️ Built-in Terminal & Python Console
