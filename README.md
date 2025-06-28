@@ -1,5 +1,7 @@
 **Papyr**
 
+![Logo](assets/logo.png)
+
 Papyr is a full-featured, modern Python code editor built with Python itself. It combines the simplicity of classic IDEs with powerful new features to help beginners and professionals write, debug, and manage Python code efficiently.
 
 🚀 Features
