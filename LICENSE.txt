@@ -1,1 +1,15 @@
 
+Copyright (c) 2025 GarvAgnihotri
+
+This software is provided in compiled binary form only.
+
+You are allowed to:
+- Download and use the provided executable (.exe) file for personal or commercial purposes.
+
+You are NOT allowed to:
+- View, modify, reverse-engineer, decompile, or redistribute the source code.
+- Use any part of the code or logic in other projects.
+
+This software is provided "as is" without warranty of any kind.
+
+All rights reserved.
