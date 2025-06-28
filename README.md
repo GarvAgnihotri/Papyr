@@ -26,7 +26,7 @@ This software is distributed in binary form only.
 
 You may:
 - Download and use the `.exe` for free (personal or commercial use)
-You may NOT
+You may NOT:
 - Access, modify, reverse-engineer, or redistribute the source code
 Read the full [LICENSE.txt](./LICENSE.txt) for details.
 
