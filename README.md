@@ -2,20 +2,14 @@
 
 ![Logo](papyr.jpg)
 
-Papyr is a full-featured, modern Python code editor built with Python itself. It combines the simplicity of classic IDEs with powerful new features to help beginners and professionals write, debug, and manage Python code efficiently.
+🧱 Papyr – A Simple Block-Based Python IDE
+Papyr is a lightweight and beginner-friendly Python IDE built using Python itself. It offers a basic block-based coding mode, allowing you to create simple Python programs by dragging and dropping visual code blocks — perfect for learning and experimenting with Python logic.
 
-🚀 Features
-
-- 🧠 Smart Code Editor — Syntax highlighting, autocompletion, and error checking
-- 🧩 Extensions Support — Add new tools and features via a built-in extensions manager
-- 🏆 Achievements System — Unlock coding milestones as you write and run code
-- 🔤 Block Based Coding Mode — Visual drag-and-drop coding inspired of Scratch
-- 🗂️ Tabbed File Management — Work on multiple files in one window
-- 🖼️ Dark/Light Themes — Customize the appearance with modern themes
-- ⚙️ Built-in Terminal & Python Console
-- 🧪 Run & Debug Python Code Easily
-- 🌐 Offline & Lightweight — Just download and run, No installation or internet required
-
+🚀 Core Features
+🔤 Block-Based Coding — Drag-and-drop basic blocks to build Python code
+🧪 Run Python Code — Easily run your code with a single click
+⚙️ Built-in Terminal — View output and basic print/debug messages
+🌐 Offline & Lightweight — No installation or internet required — just download and run the .exe
 
 📥 Download
 👉 Download the latest `.exe` version from the [Releases](https://github.com/GarvAgnihotri/papyr/releases) section.
@@ -36,4 +30,4 @@ Read the full [LICENSE.txt](./LICENSE.txt) for details.
 Got feedback or suggestions?
 📧 garvagnihotri22@email.com  
 
-🔧 Still in active development — more features like version control, live collaboration, and AI-assisted coding are coming soon!
+🔧 Still in active development!!
