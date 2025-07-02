@@ -6,11 +6,12 @@
 Papyr is a lightweight and beginner-friendly Python IDE built using Python itself. It offers a basic block-based coding mode, allowing you to create simple Python programs by dragging and dropping visual code blocks — perfect for learning and experimenting with Python logic.
 
 🚀 Core Features
-
 🔤 Block-Based Coding — Drag-and-drop basic blocks to build Python code
 🧪 Run Python Code — Easily run your code with a single click
 ⚙️ Built-in Terminal — View output and basic print/debug messages
 🌐 Offline & Lightweight — No installation or internet required — just download and run the .exe
+
+
 
 📥 Download
 👉 Download the latest `.exe` version from the [Releases](https://github.com/GarvAgnihotri/papyr/releases) section.
